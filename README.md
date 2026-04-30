@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arnav</h1>
 
-<h3 align="center">
-Building scalable systems
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Building+scalable+systems" alt="Building scalable systems" />
+</p>
 
 ---
 
@@ -38,6 +38,7 @@ Building scalable systems
 ### 💻 Languages
 
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 ![Go](https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go)
@@ -68,8 +69,8 @@ Building scalable systems
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2arnav&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2arnav&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2arnav4&show_icons=true&theme=tokyonight" alt="Arnav's GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=2arnav4&theme=tokyonight" alt="Arnav's GitHub streak" />
 </p>
 
 ---
@@ -77,7 +78,7 @@ Building scalable systems
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/2arnav/2arnav/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/2arnav4/2arnav4/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
 
 ---
@@ -85,5 +86,5 @@ Building scalable systems
 ## 👀 Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=2arnav&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=2arnav4&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
 </p>
