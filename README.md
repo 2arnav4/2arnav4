@@ -75,14 +75,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## ⚡ Developer Mode
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2arnav4/2arnav4/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2arnav4/2arnav4/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/2arnav4/2arnav4/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/2arnav4/2arnav4/main/assets/dev-terminal.svg" alt="Developer terminal animation" width="100%" />
 </p>
 
 ---
