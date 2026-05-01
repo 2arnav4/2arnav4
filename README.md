@@ -26,9 +26,9 @@
 <a href="https://x.com/arnav_singla24" target="blank">
 <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter" />
 </a>
-<!-- <a href="mailto:singlaarnav2405@gmail.com">
+<a href="mailto:singlaarnav2405@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-</a> -->
+</a>
 </p>
 
 ---
