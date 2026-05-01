@@ -6,18 +6,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 Full-stack developer focused on building scalable and efficient applications
-- 🧠 Strong in DSA (C++), system design, and backend architecture
-- ⚡ Passionate about solving real-world problems through code
-- 🏢 Management Head @ GDGC ADGIPS
-- 📫 Reach me at: singlaarnav2405@gmail.com
-- 🤝 Open to roles, collaborations, and ambitious builds
+- Full-stack developer building practical, scalable web applications
+- Exploring modern frontend, backend systems, and product development
+- I enjoy turning ideas into clean, working digital experiences
+- Management Head @ GDGC ADGIPS
+- Reach me at: **singlaarnav2405@gmail.com**
+- Open to roles, collaborations, and ambitious builds
 
 ---
 
-## 🌐 Connect with me
+## Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/arnav-singla-5683432a3/" target="blank">
@@ -33,39 +33,41 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 💻 Languages
+**Languages**
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![Go](https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,go" alt="Languages" />
+</p>
 
-### 🎨 Frontend
+**Frontend**
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" />
+</p>
 
-### ⚙️ Backend
+**Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
+</p>
 
-### 🗄 Database
+**Database**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="Database" />
+</p>
 
-### 🛠 Tools
+**Tools**
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker" alt="Tools" />
+</p>
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -74,8 +76,9 @@
 </p>
 
 ---
+-->
 
-## ⚡ Developer Mode
+## Developer Mode
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/2arnav4/2arnav4/main/assets/dev-terminal.svg" alt="Developer terminal animation" width="100%" />
@@ -83,7 +86,7 @@
 
 ---
 
-## 👀 Profile Views
+## Profile Views
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=2arnav4&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
