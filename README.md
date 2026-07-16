@@ -38,7 +38,7 @@ Real-time auction platform with live bidding, authentication and modern UI.
 <td width="50%" valign="top">
 
 <a href="https://grow-easy-assignment-iota.vercel.app/">
-<img src="https://raw.githubusercontent.com/2arnav4/GrowCRM/main/main/preview.jpeg" width="100%" />
+<img src="[https://raw.githubusercontent.com/2arnav4/GrowCRM/main/main/preview.jpeg](https://github.com/2arnav4/AuctionHub/blob/main/main/preview.jpeg)" width="100%" />
 </a>
 
 ### 📈 GrowCRM
