@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=Building+scalable+systems;Full-Stack+Developer;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=Building+scalable+systems;Full-Stack+Developer;Always+Learning](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+scalable+systems;Always+learning+new+technologies)+🚀" alt="Typing SVG" />
 </p>
 
 ---
