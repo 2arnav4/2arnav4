@@ -21,27 +21,31 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+<a href="https://auction-assignment.vercel.app/">
+<img src="https://raw.githubusercontent.com/2arnav4/AuctionHub/main/assets/preview.png" width="100%" />
+</a>
 
 ### 🚀 AuctionHub
 
-Real-time auction platform built with modern full-stack technologies.
+Real-time auction platform with live bidding, authentication and modern UI.
 
-🔗 **Live:** https://auction-assignment.vercel.app/
-
-📂 **Repository:** https://github.com/2arnav4/AuctionHub
+[🌐 Live Demo](https://auction-assignment.vercel.app/) • [💻 Source](https://github.com/2arnav4/AuctionHub)
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
+
+<a href="https://grow-easy-assignment-iota.vercel.app/">
+<img src="https://raw.githubusercontent.com/2arnav4/GrowCRM/main/assets/preview.png" width="100%" />
+</a>
 
 ### 📈 GrowCRM
 
-Customer relationship management platform with modern UI.
+CRM dashboard for managing customers and business workflows.
 
-🔗 **Live:** https://grow-easy-assignment-iota.vercel.app/
-
-📂 **Repository:** https://github.com/2arnav4/GrowCRM
+[🌐 Live Demo](https://grow-easy-assignment-iota.vercel.app/) • [💻 Source](https://github.com/2arnav4/GrowCRM)
 
 </td>
 </tr>
