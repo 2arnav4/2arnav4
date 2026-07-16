@@ -19,20 +19,33 @@
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/2arnav4/Alcovia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2arnav4&repo=Alcovia&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/2arnav4/AuctionHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2arnav4&repo=AuctionHub&theme=tokyonight" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <a href="https://github.com/2arnav4/GrowCRM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2arnav4&repo=GrowCRM&theme=tokyonight" />
-  </a>
-</p>
+### 🚀 AuctionHub
+
+Real-time auction platform built with modern full-stack technologies.
+
+🔗 **Live:** https://auction-assignment.vercel.app/
+
+📂 **Repository:** https://github.com/2arnav4/AuctionHub
+
+</td>
+
+<td width="50%">
+
+### 📈 GrowCRM
+
+Customer relationship management platform with modern UI.
+
+🔗 **Live:** https://grow-easy-assignment-iota.vercel.app/
+
+📂 **Repository:** https://github.com/2arnav4/GrowCRM
+
+</td>
+</tr>
+</table>
 ---
 
 ## Connect With Me
