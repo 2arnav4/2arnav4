@@ -23,8 +23,8 @@
   <a href="https://github.com/2arnav4/Alcovia">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=2arnav4&repo=Alcovia&theme=tokyonight" />
   </a>
-  <a href="https://github.com/2arnav4/ActionHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2arnav4&repo=ActionHub&theme=tokyonight" />
+  <a href="https://github.com/2arnav4/AuctionHub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2arnav4&repo=AuctionHub&theme=tokyonight" />
   </a>
 </p>
 
