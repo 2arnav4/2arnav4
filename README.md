@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+scalable+systems;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Scalable+Systems;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,33 +21,39 @@
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 <a href="https://auction-assignment.vercel.app/">
-<img src="https://raw.githubusercontent.com/2arnav4/11-Auction-Assignment/main/Mini%20Realtime%20Auction%20Room/main/preview.jpeg" width="100%" />
+  <img src="https://raw.githubusercontent.com/2arnav4/AuctionHub/main/main/preview.jpeg" width="100%" alt="AuctionHub Preview">
 </a>
 
 ### 🚀 AuctionHub
 
 Real-time auction platform with live bidding, authentication and modern UI.
 
-[🌐 Live Demo](https://auction-assignment.vercel.app/) • [💻 Source](https://github.com/2arnav4/AuctionHub)
+🌐 **Live Demo:** https://auction-assignment.vercel.app/
+
+💻 **Source:** https://github.com/2arnav4/AuctionHub
 
 </td>
 
 <td width="50%" valign="top">
 
 <a href="https://grow-easy-assignment-iota.vercel.app/">
-<img src="[https://raw.githubusercontent.com/2arnav4/GrowCRM/main/main/preview.jpeg](https://github.com/2arnav4/AuctionHub/blob/main/main/preview.jpeg)" width="100%" />
+  <img src="https://raw.githubusercontent.com/2arnav4/GrowCRM/main/main/preview.jpeg" width="100%" alt="GrowCRM Preview">
 </a>
 
 ### 📈 GrowCRM
 
 CRM dashboard for managing customers and business workflows.
 
-[🌐 Live Demo](https://grow-easy-assignment-iota.vercel.app/) • [💻 Source](https://github.com/2arnav4/GrowCRM)
+🌐 **Live Demo:** https://grow-easy-assignment-iota.vercel.app/
+
+💻 **Source:** https://github.com/2arnav4/GrowCRM
 
 </td>
+
 </tr>
 </table>
 
@@ -56,17 +62,17 @@ CRM dashboard for managing customers and business workflows.
 ## Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/arnav-singla-5683432a3/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/arnav-singla-5683432a3">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
 
-<a href="https://x.com/arnav_singla24" target="blank">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x" />
-</a>
+  <a href="https://x.com/arnav_singla24">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x">
+  </a>
 
-<a href="mailto:singlaarnav2405@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-</a>
+  <a href="mailto:singlaarnav2405@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
@@ -76,31 +82,31 @@ CRM dashboard for managing customers and business workflows.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,go" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,go">
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind">
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express">
 </p>
 
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb">
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker" />
+  <img src="https://skillicons.dev/icons?i=git,docker">
 </p>
 
 ---
@@ -108,7 +114,7 @@ CRM dashboard for managing customers and business workflows.
 ## Developer Mode
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/2arnav4/2arnav4/main/assets/dev-terminal.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/2arnav4/2arnav4/main/assets/dev-terminal.svg" width="100%">
 </p>
 
 ---
@@ -116,5 +122,5 @@ CRM dashboard for managing customers and business workflows.
 ## Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=2arnav4&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=2arnav4&label=Profile%20views&color=blue&style=flat">
 </p>
