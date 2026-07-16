@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Scalable+Systems;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+scalable+systems;Always+learning+new+technologies" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 <td width="50%" valign="top">
 
 <a href="https://auction-assignment.vercel.app/">
-<img src="https://raw.githubusercontent.com/2arnav4/AuctionHub/main/assets/preview.png" width="100%" />
+<img src="https://raw.githubusercontent.com/2arnav4/11-Auction-Assignment/main/Mini%20Realtime%20Auction%20Room/main/preview.jpeg" width="100%" />
 </a>
 
 ### 🚀 AuctionHub
@@ -38,7 +38,7 @@ Real-time auction platform with live bidding, authentication and modern UI.
 <td width="50%" valign="top">
 
 <a href="https://grow-easy-assignment-iota.vercel.app/">
-<img src="https://raw.githubusercontent.com/2arnav4/GrowCRM/main/assets/preview.png" width="100%" />
+<img src="https://raw.githubusercontent.com/2arnav4/GrowCRM/main/main/preview.jpeg" width="100%" />
 </a>
 
 ### 📈 GrowCRM
@@ -50,6 +50,7 @@ CRM dashboard for managing customers and business workflows.
 </td>
 </tr>
 </table>
+
 ---
 
 ## Connect With Me
