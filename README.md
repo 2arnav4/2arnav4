@@ -24,17 +24,17 @@
 
 <td width="50%" valign="top">
 
-<a href="https://auction-assignment.vercel.app/">
-  <img src="https://raw.githubusercontent.com/2arnav4/AuctionHub/main/main/preview.jpeg" width="100%" alt="AuctionHub Preview">
+<a href="https://gavel-pied.vercel.app/">
+  <img src="https://raw.githubusercontent.com/2arnav4/Gavel/main/main/preview.jpeg" width="100%" alt="Gavel Preview">
 </a>
 
-### 🚀 AuctionHub
+### 🚀 Gavel
 
 Real-time auction platform with live bidding, authentication and modern UI.
 
-🌐 **Live Demo:** https://auction-assignment.vercel.app/
+🌐 **Live Demo:** https://gavel-pied.vercel.app/
 
-💻 **Source:** https://github.com/2arnav4/AuctionHub
+💻 **Source:** https://github.com/2arnav4/Gavel
 
 </td>
 
